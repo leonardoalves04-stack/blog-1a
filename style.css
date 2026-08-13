@@ -1,1 +1,19 @@
-body
+body {
+
+background-color: black;
+
+}
+
+
+header { 
+   background-color: #4388c9;
+   text-align : center;
+   margin: 0px auto;
+   max-width: 800px;
+}
+
+main {
+    text-align :center;
+    margin: 10px auto;
+    max-width: 600px
+}
